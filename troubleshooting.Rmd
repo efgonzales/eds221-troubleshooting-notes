@@ -88,3 +88,6 @@ ggplot(data = na.omit(penguins), aes(x = species, y = body_mass_g, shape = sex))
         panel.border = element_rect(color = "black", size = 0.7, fill = NA))
 ```
 
+
+```
+
